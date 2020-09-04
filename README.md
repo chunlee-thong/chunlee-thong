@@ -9,3 +9,7 @@ I'm a mobile developer in Phnom penh, Cambodia
 - 📫 How to reach me: [My Email](chunlee.thong@gmail.com) 👌
 - 😄 Pronouns: CHUN-LEE 👌
 - ⚡ Fun fact: I love cat 😹
+
+### Github Stats
+
+[![Chunlee's Github Stats](https://github-readme-stats.vercel.app/api?username=chunlee-thong&count_private=true&theme=default&show_icons=true)](https://github.com/chunlee-thong)
