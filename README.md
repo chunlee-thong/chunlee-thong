@@ -13,3 +13,4 @@ I'm a mobile developer in Phnom penh, Cambodia
 ### Github Stats
 
 [![Chunlee's Github Stats](https://github-readme-stats.vercel.app/api?username=chunlee-thong&count_private=true&theme=default&show_icons=true)](https://github.com/chunlee-thong)
+[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=chunlee-thong&show_icons=true)](https://github.com/chunlee-thong)
