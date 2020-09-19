@@ -7,7 +7,7 @@ I'm a mobile developer in Phnom penh, Cambodia
 - 👯 I’m looking to collaborate on Mobile app and game development 🎮
 - 💬 Ask me about Flutter or anything 🤣 
 - 📫 How to reach me: [My Email](chunlee.thong@gmail.com) 👌
-- 📕 Portfolio: [Chunlee thong](www.chunleethong.com) 
+- 📕 Portfolio: [Chunlee thong](https://www.chunleethong.com) 
 - ⚡ Fun fact: I love cat 😹
 
 ### Github Stats
