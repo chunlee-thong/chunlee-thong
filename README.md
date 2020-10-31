@@ -10,7 +10,11 @@ I'm a mobile developer in Phnom penh, Cambodia
 - 📕 Portfolio: [Chunlee thong](https://www.chunleethong.com) 
 - ⚡ Fun fact: I love cat 😹
 
+![](https://komarev.com/ghpvc/?username=chunlee-thong)
+
 ### Github Stats
+![](https://komarev.com/ghpvc/?username=chunlee-thong)
 
 [![Chunlee's Github Stats](https://github-readme-stats.vercel.app/api?username=chunlee-thong&theme=default&show_icons=true&line_height=40&theme=dark)](https://github.com/chunlee-thong)
+
 [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=chunlee-thong&show_icons=true&theme=dark)](https://github.com/chunlee-thong)
