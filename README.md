@@ -10,6 +10,16 @@ I'm a mobile developer in Phnom penh, Cambodia
 - 📕 Portfolio: [Chunlee thong](https://www.chunleethong.com) 
 - ⚡ Fun fact: I love cat 😹
 
+### Social
+
+<a href="https://twitter.com/ChunleeThong">
+  <img align="left" alt="Chunlee Thong" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+</a>
+
+<a href="https://www.youtube.com/channel/UC1_8N151047_2YDggz6GKIQ?view_as=subscriber">
+  <img align="left" alt="Youtube" width="22px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+</a>
+
 ### Github Stats
 ![](https://komarev.com/ghpvc/?username=chunlee-thong)
 
