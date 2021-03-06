@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-I'm a mobile developer in Phnom penh, Cambodia 
+I'm a Full stack developer specialized in Mobile development with Flutter.
 
 - 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning React, NodeJS and Unity 💻
-- 👯 I’m looking to collaborate on Mobile app and game development 🎮
+- 🌱 I’m using MERN stack technology.
 - 💬 Ask me about Flutter or anything 🤣 
 - 📫 How to reach me: [My Email](chunlee.thong@gmail.com) 👌
 - 📕 Portfolio: [Chunlee thong](https://www.chunleethong.com) 
