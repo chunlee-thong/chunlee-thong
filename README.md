@@ -2,12 +2,11 @@
 
 I'm a Full stack developer specialized in Mobile development with Flutter.
 
-- 🔭 I’m currently working on Flutter
+- 🔭 I’m currently working with Flutter.
 - 🌱 I’m using MERN stack technology.
 - 💬 Ask me about Flutter or anything 🤣 
 - 📫 How to reach me: [My Email](chunlee.thong@gmail.com) 👌
 - 📕 Portfolio: [Chunlee thong](https://www.chunleethong.com) 
-- ⚡ Fun fact: I love cat 😹
 
 ### Github Stats
 ![](https://komarev.com/ghpvc/?username=chunlee-thong)
