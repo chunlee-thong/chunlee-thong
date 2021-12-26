@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm a Full stack developer specialized in Mobile development with Flutter.
+I'm a full stack developer specialized in Mobile development with Flutter.
 
-- 🔭 I’m currently working with Flutter.
-- 🌱 I’m using MERN stack technology.
-- 💬 Ask me about Flutter or anything 🤣 
-- 📫 How to reach me: [My Email](chunlee.thong@gmail.com) 👌
+- 🔭 I’m currently working as a Flutter developer at ABA Bank.
+- 🌱 I’m using MERN stack technology for web tech.
+- 🔭 Currently improving DevOps skill.
+- 📫 How to reach me: <chunlee.thong@gmail.com> 👌
 - 📕 Portfolio: [Chunlee thong](https://www.chunleethong.com) 
 
 ### Github Stats
