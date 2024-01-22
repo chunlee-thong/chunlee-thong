@@ -1,17 +1,26 @@
 ### Hi there 👋
 
-I'm a full stack developer specialized in Mobile development with Flutter.
+I'm a full-stack developer specializing in Mobile development with Flutter.
+I have 5 years of experience with Flutter and other skills such as Front-end, Back-end, and basic DevOps.
 
-- 🔭 I’m currently working as a Flutter developer at ABA Bank.
-- 🌱 I’m using MERN stack technology for web tech.
-- 🔭 Currently improving DevOps skill.
 - 📫 How to reach me: <chunlee.thong@gmail.com> 👌
 - 📕 Portfolio: [Chunlee thong](https://www.chunleethong.com)
-
-
+<br></br>
+### Social
 <div>
-<br/>
-<p>🛠 Tools & Technology</p>
+  <a href="https://www.linkedin.com/in/chunlee-thong-2295aa178/">
+    <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@chunleethong">
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/chunleethong">
+    <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=X&logoColor=white" />
+  </a>
+</div>
+
+### 🛠 Tools & Technology
+<div>
 
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -34,14 +43,3 @@ I'm a full stack developer specialized in Mobile development with Flutter.
 [![Chunlee's Github Stats](https://github-readme-stats.vercel.app/api?username=chunlee-thong&theme=default&show_icons=true&line_height=40&theme=dark)](https://github.com/chunlee-thong)
 
 [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=chunlee-thong&show_icons=true&theme=dark)](https://github.com/chunlee-thong)
-
-
-### Social
-
-<a href="https://twitter.com/ChunleeThong">
-  <img align="left" alt="Chunlee Thong" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
-</a>
-
-<a href="https://www.youtube.com/channel/UC1_8N151047_2YDggz6GKIQ?view_as=subscriber">
-  <img align="left" alt="Youtube" width="22px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
-</a>
